@@ -1,0 +1,4 @@
+#LIST AKAN DI ULAS PADA PERTEMUAN BERIKUTNYA
+a = [5,10,15,20,25,30,35,40]
+print (a)
+print(a[2])
