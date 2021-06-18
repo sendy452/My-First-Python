@@ -1,6 +1,6 @@
 angka = [1,2,3,4,5]
 for x in angka:
-    print(angka)
+    print(x)
 
 
 ulang = 10
